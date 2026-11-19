@@ -29,7 +29,7 @@ Explore our production-ready business systems below. Click **Launch Demo** to ex
 
 ## Core Services
 
-* **Custom Web & Mobile Development:** End-to-end engineering of responsive websites, SaaS platforms, and cross-platform mobile applications tailored to business goals.
+* **Custom Web & Development:** End-to-end engineering of responsive websites, SaaS platforms.
 * **Enterprise & Business Systems:** Custom POS, booking, inventory, and internal workflow management tools built for reliability and scale.
 * **UI/UX Product Design:** Clean, modern, and intuitive user interfaces designed to maximize usability and customer trust.
 * **Cloud Infrastructure & Managed Hosting:** Secure server architecture, automated CI/CD pipelines, and high-availability deployment on AWS.

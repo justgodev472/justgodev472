@@ -19,11 +19,11 @@ Explore our production-ready business systems below. Click **Launch Demo** to ex
 
 | Solution | Overview | Live Demo |
 | :--- | :--- | :---: |
-| **POS Management System** | Complete point-of-sale dashboard for real-time sales tracking, inventory control, and daily billing operations. | [Launch Demo](https://pos-demo.justgodev.com/dashboard) |
-| **Hotel Management System** | Property management dashboard engineered for room reservations, front-desk check-ins, and occupancy analytics. | [Launch Demo](https://hotel-demo.justgodev.com/dashboard) |
+| **POS Management System** | Complete point-of-sale dashboard for real-time sales tracking, inventory control, and daily billing operations. | [Launch Demo](https://pos-demo.justgodev.com) |
+| **Hotel Management System** | Property management dashboard engineered for room reservations, front-desk check-ins, and occupancy analytics. | [Launch Demo](https://hotel-demo.justgodev.com) |
 | **QR Ordering System** | Contactless table ordering platform allowing guests to browse digital menus and place orders seamlessly via QR code. | [Launch Demo](https://qr-order.justgodev.com) |
-| **E-Commerce Store Platform** | Modern online storefront and merchant portal for product catalog management, cart checkout, and order fulfillment. | [Launch Demo](https://store-demo.justgodev.com/login) |
-| **Queue Management System** | Digital ticketing and service counter workflow solution built to organize queues and reduce customer wait times. | [Launch Demo](https://queue-demo.justgodev.com/login) |
+| **E-Commerce Store Platform** | Modern online storefront and merchant portal for product catalog management, cart checkout, and order fulfillment. | [Launch Demo](https://store-demo.justgodev.com) |
+| **Queue Management System** | Digital ticketing and service counter workflow solution built to organize queues and reduce customer wait times. | [Launch Demo](https://queue-demo.justgodev.com) |
 
 ---
 
